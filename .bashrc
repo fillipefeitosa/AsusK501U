@@ -119,3 +119,5 @@ else
 fi
 
 setxkbmap -model pc104 -layout us_intl
+xmodmap ~/.Xmodmap
+
